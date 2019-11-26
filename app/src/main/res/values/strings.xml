@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="enterPhone">Enter Phone</string>
+    <string name="send">Send</string>
+    <string name="call">Call</string>
+    <string name="noNum">No Phone Number</string>
+</resources>
